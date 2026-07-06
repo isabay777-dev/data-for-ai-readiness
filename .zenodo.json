@@ -1,0 +1,28 @@
+{
+  "title": "Data-for-AI Readiness (DAR): dataset, index and code for 'Data before models: statistical capacity and open-data governance as the binding AI input in a catch-up knowledge economy'",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "description": "Replication materials for the paper 'Data before models: statistical capacity and open-data governance as the binding AI input in a catch-up knowledge economy' (submitted to Technology in Society). Contains the assembled cross-country panel for eleven economies (World Bank Statistical Performance Indicators, World Bank WDI, OpenAlex AI research output), the code that builds the Data-for-AI Readiness (DAR) index and runs the descriptive regressions, and the figures. All input data are public. Reproduce with: pip install -r requirements.txt; python code/compute_article5.py; python code/make_figures_article5.py.",
+  "creators": [
+    {
+      "name": "Yesmagambetov, Issabay",
+      "affiliation": "[to complete], Kazakhstan",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "knowledge economy",
+    "data readiness",
+    "statistical capacity",
+    "open data",
+    "research capacity",
+    "Kazakhstan",
+    "Central Asia",
+    "Statistical Performance Indicators",
+    "OpenAlex"
+  ],
+  "language": "eng",
+  "version": "1.0.0"
+}
