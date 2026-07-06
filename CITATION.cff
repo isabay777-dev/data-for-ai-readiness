@@ -6,6 +6,8 @@ type: dataset
 authors:
   - family-names: Yesmagambetov
     given-names: Issabay
+    orcid: "https://orcid.org/0009-0000-4277-9524"
+    affiliation: "Toraighyrov University, Pavlodar, Kazakhstan"
 version: 1.0.0
 doi: 10.5281/zenodo.21212759
 date-released: 2026-07-06
