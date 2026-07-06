@@ -8,6 +8,14 @@ authors:
     given-names: Issabay
     orcid: "https://orcid.org/0009-0000-4277-9524"
     affiliation: "Toraighyrov University, Pavlodar, Kazakhstan"
+  - family-names: Arynova
+    given-names: Zulfiya A.
+    orcid: "https://orcid.org/0000-0003-0123-6667"
+    affiliation: "Toraighyrov University, Pavlodar, Kazakhstan"
+  - family-names: Błoński
+    given-names: Paweł
+    orcid: "https://orcid.org/0000-0003-4764-6995"
+    affiliation: "Kazimierz Wielki University, Bydgoszcz, Poland"
 version: 1.0.0
 doi: 10.5281/zenodo.21212759
 date-released: 2026-07-06
