@@ -1,5 +1,7 @@
 # Data-for-AI Readiness (DAR): dataset, index and code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21212759.svg)](https://doi.org/10.5281/zenodo.21212759)
+
 Replication materials for the paper **"Data before models: statistical capacity and open-data governance as the binding AI input in a catch-up knowledge economy"** (Yesmagambetov, 2026; submitted to *Technology in Society*).
 
 The study measures the **data input** of national AI capability for eleven economies, builds a reproducible **Data-for-AI Readiness (DAR)** index, and relates it to national AI research output. This archive contains everything needed to reproduce the dataset, the index, the regressions and the figures.

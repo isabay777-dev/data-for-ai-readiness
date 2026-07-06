@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the archive (and the associated paper)."
+title: "Data-for-AI Readiness (DAR): dataset, index and code"
+abstract: "Replication data, Data-for-AI Readiness index and code for the paper 'Data before models: statistical capacity and open-data governance as the binding AI input in a catch-up knowledge economy'."
+type: dataset
+authors:
+  - family-names: Yesmagambetov
+    given-names: Issabay
+version: 1.0.0
+doi: 10.5281/zenodo.21212759
+date-released: 2026-07-06
+license: CC-BY-4.0
+url: "https://github.com/isabay777-dev/data-for-ai-readiness"
+keywords:
+  - artificial intelligence
+  - knowledge economy
+  - data readiness
+  - statistical capacity
+  - Kazakhstan
